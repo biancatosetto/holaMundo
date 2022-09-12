@@ -1,2 +1,5 @@
 # holaMundo
-Primer repositioro Metodología de la Investigación
+
+Mi primer repositorio en GitHub
+
+i like 🍔, 🎮, 🏀
