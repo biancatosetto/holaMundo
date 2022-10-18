@@ -9,3 +9,6 @@ i like 🍦, 📱, 🎾
 Seguimos trabajando con GitHub
 
 i like 🍫, ❄️, ☕
+
+Clase 7
+Realizamos cambios en el archivo Readme
