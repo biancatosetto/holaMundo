@@ -12,3 +12,4 @@ i like 🍫, ❄️, ☕
 
 Clase 7
 Realizamos cambios en el archivo Readme
+Utilizamos Pull Request
